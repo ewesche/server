@@ -1,0 +1,19 @@
+{
+  "documents": [
+    {
+      "id": 1,
+      "document": "Document 1",
+      "url": "https://cors-anywhere.herokuapp.com/http://www.pdf995.com/samples/pdf.pdf"
+    },
+    {
+      "id": 2,
+      "document": "Document 2",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "document": "Document 3",
+      "url": ""
+    },
+  ]
+}
